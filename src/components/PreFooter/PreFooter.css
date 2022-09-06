@@ -1,0 +1,6 @@
+.prefooter_main {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  background-color: #f0f2f5;
+}

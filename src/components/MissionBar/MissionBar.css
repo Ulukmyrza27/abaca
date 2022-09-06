@@ -1,0 +1,12 @@
+.line {
+  font-family: Geomaninst, sans-serif;
+  color: rgb(249, 250, 251);
+  font-weight: 400;
+  font-size: 1.25rem;
+  text-align: center;
+  padding: 0 15px;
+  /* color: var(--white); */
+  margin: 0;
+
+  background-color: #146aff;
+}

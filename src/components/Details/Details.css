@@ -1,0 +1,19 @@
+.details-main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 50%;
+  max-height: 100%;
+  padding-left: 10%;
+}
+.details-inner {
+  display: block;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
